@@ -1,0 +1,50 @@
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\bin\Debug\net6.0\ref\Questao2.dll
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\obj\Debug\net6.0\Questao2.csproj.CopyComplete
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\obj\Debug\net6.0\ref\Questao2.dll
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (5)\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\ref\Questao2.dll
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.csproj.CopyComplete
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\ref\Questao2.dll
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Users\Jadir\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\ref\Questao2.dll
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.csproj.CopyComplete
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\ref\Questao2.dll
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Users\Jadir\Downloads\JADIR-Teste-Nivelamento-Desenvolvedor-CSharp-API-v2\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
